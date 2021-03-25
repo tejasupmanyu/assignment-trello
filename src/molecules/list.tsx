@@ -2,7 +2,6 @@ import React, { DragEvent } from "react";
 import { EditableField } from "../atoms/editableField";
 
 interface ListProps {
-  id: string;
   title: string;
   children?: any;
   onRemove: () => void;
