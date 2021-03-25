@@ -2,6 +2,15 @@
 
 Code for Trello assignment using ReactJS and TailwindCSS.
 
+## Running Locally
+
+- `cd` into the project repository.
+- If you use yarn, install dependencies using -
+  `yarn`
+  else if you use npm -
+  `npm i`
+- Run the app using `yarn start` or `npm run start`. The app should start running on port 3000.
+
 ## Available Scripts
 
 **Requires node version > 12**
