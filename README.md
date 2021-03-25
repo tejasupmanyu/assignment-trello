@@ -4,6 +4,8 @@ Code for Trello assignment using ReactJS and TailwindCSS.
 
 ## Available Scripts
 
+**Requires node version > 12**
+
 In the project directory, you can run:
 
 ### `yarn start`

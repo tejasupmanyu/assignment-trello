@@ -139,6 +139,11 @@ export const Board: React.FC = () => {
             </List>
           );
         })}
+        {Object.keys(lists).length < 1 && (
+          <p className="text-gray-600 m-auto">
+            No lists yet, use + Add lists button to add one.
+          </p>
+        )}
       </div>
     </main>
   );
